@@ -2,23 +2,18 @@
   "ingredients":[
     {"name":"Sucre"},
     {"name":"Sucre Glace"},
-
     {"name":"Sel"},
-
     {"name":"Farine"},
     {"name":"Maïzena"},
-
     {"name":"Oeufs"},
     {"name":"Blanc d\'oeuf"},
     {"name":"Jaune d\'oeuf"},
-
     {"name":"Beurre"},
     {"name":"Creme"},
     {"name":"Lait"},
     {"name":"Yaourt Nature"},
     {"name":"Fromage Blanc"},
     {"name":"Philadelphia"},
-
     {"name":"Abricots"},
     {"name":"Ananas"},
     {"name":"Bananes"},
